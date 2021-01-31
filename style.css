@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background: rgb(87,84,138);
+    background-color: linear-gradient(rgba(87,84,138,1) 0%, rgba(9,121,80,1) 46%, rgba(0,212,255,1) 100%);
+    background-repeat: no-repeat;
+}
+#h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 20px ;
+}
+#para {
+    padding: 20px ;
+    font-size: 18;
+    text-align: center;
+}
+#art {
+    border-radius: 50%;
+    width:100px; 
+}
